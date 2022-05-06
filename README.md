@@ -6,5 +6,7 @@ sngrep install easy way
 
 ## 用法：
 git clone git@github.com:longchun4835/sngrep.git
+
 chmod +x install_sngrep.sh
+
 ./install_sngrep.sh
